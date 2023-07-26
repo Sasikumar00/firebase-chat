@@ -98,8 +98,7 @@ body {
   width: 1.3rem;
 }
 .signIn-btn button:hover{
-  background-color: transparent;
-  border: 2px solid yellowgreen;
+  cursor: pointer;
 }
 .chats{
   padding: 10px 0;
